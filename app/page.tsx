@@ -20,7 +20,7 @@ export default function Home() {
       </main>
       <footer className="bg-gray-800 text-white py-8 mt-12">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; {new Date().getFullYear()} BlogApp. Tüm hakları saklıdır.</p>
+          <p>&copy; {new Date().getFullYear()} BlogApp Celal KHALİLOV Tarafından Yapılmıştır. Tüm hakları saklıdır.</p>
         </div>
       </footer>
     </div>
